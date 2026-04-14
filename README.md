@@ -1,2 +1,2 @@
 # github_lab_3
-Module 3 practice of introduction Github
+I am editing the README file. Adding some more details about the project description.
